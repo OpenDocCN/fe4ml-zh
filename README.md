@@ -8,7 +8,7 @@
 > 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-* [在线阅读](http://fe4ml.apachecn.org)
+* [在线阅读](http://fe4ml.flygon.net)
 * [利用 Python 进行数据分析 第二版](https://github.com/apachecn/pyda-2e-zh)
 
 ## 负责人
@@ -41,4 +41,4 @@ fe4ml-zh <port>
 
 ## 赞助我
 
-<img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
+<img src="http://www.flygon.net/img/about/donate.jpg" alt="微信&支付宝" />
