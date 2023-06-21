@@ -63,6 +63,6 @@ fe4ml-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
-## 赞助我们
+## 赞助我
 
 <img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
