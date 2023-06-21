@@ -9,9 +9,6 @@
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
 * [在线阅读](http://fe4ml.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/fe4ml-zh/)
-* [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
-* [ApacheCN 学习资源](http://www.apachecn.org/)
 * [利用 Python 进行数据分析 第二版](https://github.com/apachecn/pyda-2e-zh)
 
 ## 目录
@@ -44,14 +41,6 @@ ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何�
 ```
 docker pull apachecn0/fe4ml-zh
 docker run -tid -p <port>:80 apachecn0/fe4ml-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install fe4ml-zh
-fe4ml-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
